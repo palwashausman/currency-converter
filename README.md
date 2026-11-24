@@ -25,8 +25,7 @@ An evolutionary FinTech & AI project demonstrating how upgrading from rigid stri
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/palwashausman/currency-converter-ai-evolution.git](https://github.com/palwashausman/currency-converter-ai-evolution.git)
-   cd currency-converter-ai-evolution
+   git clone https://github.com/palwashausman/currency-converter-ai-evolution.git
    ```
 
 2. **Install dependencies:**
