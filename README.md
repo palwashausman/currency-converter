@@ -1,7 +1,7 @@
 # Live FX Assistant: Rule-Based Pipeline to Agentic AI
+[![Open in Streamlit](https://palwasha-fx-assistant.streamlit.app/)
 
 An evolutionary FinTech & AI project demonstrating how upgrading from rigid string parsing to **LLM Function Calling** solves user-input friction while keeping financial calculations grounded in real-time market data.
-
 ---
 
 ## Project Architecture & Progression
